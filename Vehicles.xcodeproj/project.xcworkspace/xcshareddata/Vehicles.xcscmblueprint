@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BA12B405FF2CBF39BC3AEC2324BDB43E349E5BBB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E481E78759B17BCE49C8EE349ABA6494202C2E31" : 0,
+    "BA12B405FF2CBF39BC3AEC2324BDB43E349E5BBB" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "64138660-B48D-4CC4-8CED-B5AD100A4EFD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E481E78759B17BCE49C8EE349ABA6494202C2E31" : "",
+    "BA12B405FF2CBF39BC3AEC2324BDB43E349E5BBB" : "Vehicles\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Vehicles",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Vehicles.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ascoelho\/Vehicles.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BA12B405FF2CBF39BC3AEC2324BDB43E349E5BBB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ascoelho\/c.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E481E78759B17BCE49C8EE349ABA6494202C2E31"
+    }
+  ]
+}
